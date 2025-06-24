@@ -3,3 +3,11 @@
 Шрифт:   
 ![](ссылка_на_изображение)  
 ![](ссылка_на_изображение)  
+<br>
+```cpp
+#include <ChistiyBigNumbers.h>
+
+ChistiyBigNumbers chistiyBM; //Инициализация
+void setup() {
+  chistiyBM.begin();
+}
