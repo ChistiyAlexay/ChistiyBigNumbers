@@ -1,8 +1,10 @@
 # ChistiyBigNumbers
 Библиотека для быстрого и удобного создания больших цифр на дисплее lcd 2004 i2c   
 Шрифт:   
-![](ссылка_на_изображение)  
-![](ссылка_на_изображение)  
+![](https://github.com/user-attachments/assets/77dca485-9fb9-4f43-8312-4d11bf3ee802)
+)  
+![](https://github.com/user-attachments/assets/656dcbaa-732d-4d15-b7b5-be53750665bf)
+)  
 <br>
 ```cpp
 #include <ChistiyBigNumbers.h>
